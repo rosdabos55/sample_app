@@ -88,3 +88,8 @@ Processing Rails::InfoController#properties (for 127.0.0.1 at 2010-04-10 00:25:3
 [0m
   [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
 Completed in 16ms (View: 2, DB: 1) | 200 OK [http://localhost/rails/info/properties]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-04-15 23:33:10) [GET]
+Rendering pages/home
+Completed in 37ms (View: 35, DB: 0) | 200 OK [http://localhost/pages/home]
